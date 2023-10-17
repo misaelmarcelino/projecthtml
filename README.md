@@ -1,6 +1,6 @@
 
 <h1 style="text-align: center;">Study project and review of technologies </h1>
-<h2 style="text-align: center;"><img src="_img/logo.png"> </h2> 
+<h2 style="text-align: center;"><img src="logo.png"> </h2> 
 
 
 ### Project's Goal:
